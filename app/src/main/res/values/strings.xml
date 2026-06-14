@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Cyklometr</string>
+    <string name="tab_tracker">Pulpit</string>
+    <string name="tab_history">Historia</string>
+    <string name="tab_planner">Planer</string>
+    <string name="tab_stats">Statystyki</string>
+    <string name="speed_unit">km/h</string>
+    <string name="distance_unit">km</string>
+    <string name="kcal_unit">kcal</string>
+    <string name="elevation_unit">m</string>
+    <string name="lbl_duration">Czas</string>
+    <string name="lbl_distance">Dystans</string>
+    <string name="lbl_speed">Prędkość</string>
+    <string name="lbl_avg_speed">Średnia prędkość</string>
+    <string name="lbl_max_speed">Maks. prędkość</string>
+    <string name="lbl_calories">Spalone kalorie</string>
+    <string name="lbl_elevation">Przewyższenie</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_pause">Pauza</string>
+    <string name="btn_resume">Wznów</string>
+    <string name="btn_stop">Stop</string>
+    <string name="btn_save">Zapisz</string>
+    <string name="btn_discard">Odrzuć</string>
+    <string name="simulator_active">Aktywny Symulator Trasy</string>
+    <string name="simulator_desc">Symuluje ruch rowerzysty w celu demonstracji na emulatorze</string>
+    <string name="gps_permission_required">Wymagane uprawnienie lokalizacji</string>
+    <string name="gps_permission_desc">Aby śledzić trasę w czasie rzeczywistym, aplikacja potrzebuje dostępu do GPS.</string>
+    <string name="grant_permission">Zezwól</string>
+    <string name="empty_history">Brak zarejestrowanych tras</string>
+    <string name="empty_history_desc">Rozpocznij swój pierwszy trening na zakładce Pulpit!</string>
+    <string name="weekly_stats">Statystyki Tygodniowe</string>
+    <string name="monthly_stats">Statystyki Miesięczne</string>
+    <string name="ride_type_road">Szosowy</string>
+    <string name="ride_type_mtb">Górski (MTB)</string>
+    <string name="ride_type_city">Miejski</string>
+</resources>
